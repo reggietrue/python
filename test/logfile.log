@@ -1,0 +1,293 @@
+2020-06-30 14:51:51,483 :INFO : test_e2e :iphone X
+2020-06-30 14:51:51,500 :INFO : test_e2e :Samsung Note 8
+2020-06-30 14:51:51,515 :INFO : test_e2e :Nokia Edge
+2020-06-30 14:51:51,527 :INFO : test_e2e :Blackberry
+2020-06-30 14:59:50,207 :INFO : test_e2e :iphone X
+2020-06-30 14:59:50,224 :INFO : test_e2e :Samsung Note 8
+2020-06-30 14:59:50,238 :INFO : test_e2e :Nokia Edge
+2020-06-30 14:59:50,249 :INFO : test_e2e :Blackberry
+2020-06-30 15:04:48,016 :INFO : test_e2e :iphone X
+2020-06-30 15:04:48,040 :INFO : test_e2e :Samsung Note 8
+2020-06-30 15:04:48,056 :INFO : test_e2e :Nokia Edge
+2020-06-30 15:04:48,080 :INFO : test_e2e :Blackberry
+2020-06-30 15:33:08,622 :INFO : test_e2e :iphone X
+2020-06-30 15:33:08,636 :INFO : test_e2e :Samsung Note 8
+2020-06-30 15:33:08,647 :INFO : test_e2e :Nokia Edge
+2020-06-30 15:33:08,658 :INFO : test_e2e :Blackberry
+2020-06-30 16:00:36,279 :INFO : test_e2e :iphone X
+2020-06-30 16:00:36,302 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:00:36,314 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:00:36,327 :INFO : test_e2e :Blackberry
+2020-06-30 16:01:51,296 :INFO : test_e2e :iphone X
+2020-06-30 16:01:51,316 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:01:51,329 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:01:51,340 :INFO : test_e2e :Blackberry
+2020-06-30 16:04:27,251 :INFO : test_e2e :iphone X
+2020-06-30 16:04:27,264 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:04:27,278 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:04:27,297 :INFO : test_e2e :Blackberry
+2020-06-30 16:11:24,313 :INFO : test_e2e :iphone X
+2020-06-30 16:15:21,701 :INFO : test_e2e :iphone X
+2020-06-30 16:17:06,807 :INFO : test_e2e :iphone X
+2020-06-30 16:18:16,057 :INFO : test_e2e :iphone X
+2020-06-30 16:19:51,185 :INFO : test_e2e :iphone X
+2020-06-30 16:24:00,422 :INFO : test_e2e :iphone X
+2020-06-30 16:29:29,584 :INFO : test_e2e :iphone X
+2020-06-30 16:32:48,318 :INFO : test_e2e :iphone X
+2020-06-30 16:34:49,187 :INFO : test_e2e :iphone X
+2020-06-30 16:38:32,211 :INFO : test_e2e :iphone X
+2020-06-30 16:40:49,365 :INFO : test_e2e :iphone X
+2020-06-30 16:42:03,323 :INFO : test_e2e :getting all the card titles
+2020-06-30 16:42:03,345 :INFO : test_e2e :iphone X
+2020-06-30 16:42:03,359 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:42:03,369 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:42:03,380 :INFO : test_e2e :Blackberry
+2020-06-30 16:45:55,628 :INFO : test_e2e :getting all the card titles
+2020-06-30 16:45:55,651 :INFO : test_e2e :iphone X
+2020-06-30 16:45:55,669 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:45:55,680 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:45:55,692 :INFO : test_e2e :Blackberry
+2020-06-30 16:49:18,254 :INFO : test_e2e :getting all the card titles
+2020-06-30 16:49:18,279 :INFO : test_e2e :iphone X
+2020-06-30 16:49:18,294 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:49:18,308 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:49:18,320 :INFO : test_e2e :Blackberry
+2020-06-30 16:56:34,363 :INFO : test_e2e :getting all the card titles
+2020-06-30 16:56:34,395 :INFO : test_e2e :iphone X
+2020-06-30 16:56:34,470 :INFO : test_e2e :Samsung Note 8
+2020-06-30 16:56:34,481 :INFO : test_e2e :Nokia Edge
+2020-06-30 16:56:34,492 :INFO : test_e2e :Blackberry
+2020-07-01 14:25:47,058 :INFO : test_e2e :getting all the card titles
+2020-07-01 14:25:47,086 :INFO : test_e2e :iphone X
+2020-07-01 14:25:47,153 :INFO : test_e2e :Samsung Note 8
+2020-07-01 14:25:47,164 :INFO : test_e2e :Nokia Edge
+2020-07-01 14:25:47,175 :INFO : test_e2e :Blackberry
+2020-07-01 14:32:45,996 :INFO : test_e2e :getting all the card titles
+2020-07-01 14:32:46,027 :INFO : test_e2e :iphone X
+2020-07-01 14:32:46,098 :INFO : test_e2e :Samsung Note 8
+2020-07-01 14:32:46,110 :INFO : test_e2e :Nokia Edge
+2020-07-01 14:32:46,121 :INFO : test_e2e :Blackberry
+2020-07-01 14:42:01,617 :INFO : test_e2e :getting all the card titles
+2020-07-01 14:42:01,645 :INFO : test_e2e :iphone X
+2020-07-01 14:42:01,726 :INFO : test_e2e :Samsung Note 8
+2020-07-01 14:42:01,738 :INFO : test_e2e :Nokia Edge
+2020-07-01 14:42:01,751 :INFO : test_e2e :Blackberry
+2020-07-01 14:45:34,997 :INFO : test_e2e :getting all the card titles
+2020-07-01 14:45:35,022 :INFO : test_e2e :iphone X
+2020-07-01 14:45:35,086 :INFO : test_e2e :Samsung Note 8
+2020-07-01 14:45:35,097 :INFO : test_e2e :Nokia Edge
+2020-07-01 14:45:35,107 :INFO : test_e2e :Blackberry
+2020-07-01 15:02:09,798 :INFO : test_e2e :getting all the card titles
+2020-07-01 15:02:09,820 :INFO : test_e2e :iphone X
+2020-07-01 15:02:09,879 :INFO : test_e2e :Samsung Note 8
+2020-07-01 15:02:09,890 :INFO : test_e2e :Nokia Edge
+2020-07-01 15:02:09,901 :INFO : test_e2e :Blackberry
+2020-07-01 15:06:03,218 :INFO : test_e2e :getting all the card titles
+2020-07-01 15:06:03,241 :INFO : test_e2e :iphone X
+2020-07-01 15:06:03,300 :INFO : test_e2e :Samsung Note 8
+2020-07-01 15:06:03,310 :INFO : test_e2e :Nokia Edge
+2020-07-01 15:06:03,321 :INFO : test_e2e :Blackberry
+2020-07-01 15:13:12,200 :INFO : test_e2e :getting all the card titles
+2020-07-01 15:13:12,226 :INFO : test_e2e :iphone X
+2020-07-01 15:13:12,291 :INFO : test_e2e :Samsung Note 8
+2020-07-01 15:13:12,302 :INFO : test_e2e :Nokia Edge
+2020-07-01 15:13:12,315 :INFO : test_e2e :Blackberry
+2020-07-01 15:16:10,873 :INFO : test_e2e :getting all the card titles
+2020-07-01 15:16:10,896 :INFO : test_e2e :iphone X
+2020-07-01 15:16:10,968 :INFO : test_e2e :Samsung Note 8
+2020-07-01 15:16:10,986 :INFO : test_e2e :Nokia Edge
+2020-07-01 15:16:10,998 :INFO : test_e2e :Blackberry
+2020-07-01 16:02:53,242 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:04:08,674 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:04:29,453 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:06:18,817 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:06:51,809 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:07:12,324 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:08:44,070 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:17:07,253 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:17:07,281 :INFO : test_e2e :iphone X
+2020-07-01 16:17:07,346 :INFO : test_e2e :Samsung Note 8
+2020-07-01 16:17:07,360 :INFO : test_e2e :Nokia Edge
+2020-07-01 16:17:07,371 :INFO : test_e2e :Blackberry
+2020-07-01 16:27:10,644 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:27:34,140 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:28:21,922 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:29:53,254 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:31:33,169 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:31:45,550 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:32:41,658 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:37:24,857 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:39:52,598 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:39:52,628 :INFO : test_e2e :iphone X
+2020-07-01 16:39:57,698 :INFO : test_e2e :Samsung Note 8
+2020-07-01 16:39:57,711 :INFO : test_e2e :Nokia Edge
+2020-07-01 16:39:57,724 :INFO : test_e2e :Blackberry
+2020-07-01 16:43:37,345 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:43:37,371 :INFO : test_e2e :iphone X
+2020-07-01 16:43:37,434 :INFO : test_e2e :Samsung Note 8
+2020-07-01 16:43:37,449 :INFO : test_e2e :Nokia Edge
+2020-07-01 16:43:37,461 :INFO : test_e2e :Blackberry
+2020-07-01 16:53:55,152 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:53:55,180 :INFO : test_e2e :iphone X
+2020-07-01 16:53:55,237 :INFO : test_e2e :Samsung Note 8
+2020-07-01 16:53:55,248 :INFO : test_e2e :Nokia Edge
+2020-07-01 16:53:55,260 :INFO : test_e2e :Blackberry
+2020-07-01 16:58:51,897 :INFO : test_e2e :getting all the card titles
+2020-07-01 16:58:51,922 :INFO : test_e2e :iphone X
+2020-07-01 16:58:51,995 :INFO : test_e2e :Samsung Note 8
+2020-07-01 16:58:52,008 :INFO : test_e2e :Nokia Edge
+2020-07-01 16:58:52,021 :INFO : test_e2e :Blackberry
+2020-07-01 17:08:41,402 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:08:41,443 :INFO : test_e2e :iphone X
+2020-07-01 17:08:42,501 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:08:42,560 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:08:42,622 :INFO : test_e2e :Blackberry
+2020-07-01 17:13:35,192 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:13:35,242 :INFO : test_e2e :iphone X
+2020-07-01 17:13:40,706 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:13:40,726 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:13:40,749 :INFO : test_e2e :Blackberry
+2020-07-01 17:43:00,173 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:43:00,206 :INFO : test_e2e :iphone X
+2020-07-01 17:43:05,831 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:43:05,853 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:43:05,880 :INFO : test_e2e :Blackberry
+2020-07-01 17:48:49,443 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:48:49,515 :INFO : test_e2e :iphone X
+2020-07-01 17:48:54,739 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:48:54,759 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:48:54,779 :INFO : test_e2e :Blackberry
+2020-07-01 17:54:33,307 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:54:33,339 :INFO : test_e2e :iphone X
+2020-07-01 17:54:33,413 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:54:33,429 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:54:33,447 :INFO : test_e2e :Blackberry
+2020-07-01 17:59:36,878 :INFO : test_e2e :getting all the card titles
+2020-07-01 17:59:36,907 :INFO : test_e2e :iphone X
+2020-07-01 17:59:36,981 :INFO : test_e2e :Samsung Note 8
+2020-07-01 17:59:36,996 :INFO : test_e2e :Nokia Edge
+2020-07-01 17:59:37,010 :INFO : test_e2e :Blackberry
+2020-07-01 20:35:55,061 :INFO : test_e2e :getting all the card titles
+2020-07-01 20:35:55,102 :INFO : test_e2e :iphone X
+2020-07-01 20:35:55,185 :INFO : test_e2e :Samsung Note 8
+2020-07-01 20:35:55,203 :INFO : test_e2e :Nokia Edge
+2020-07-01 20:35:55,224 :INFO : test_e2e :Blackberry
+2020-07-01 20:40:02,659 :INFO : test_e2e :getting all the card titles
+2020-07-01 20:40:02,688 :INFO : test_e2e :iphone X
+2020-07-01 20:40:02,774 :INFO : test_e2e :Samsung Note 8
+2020-07-01 20:40:02,791 :INFO : test_e2e :Nokia Edge
+2020-07-01 20:40:02,808 :INFO : test_e2e :Blackberry
+2020-07-01 20:51:24,940 :INFO : test_e2e :getting all the card titles
+2020-07-01 20:51:24,970 :INFO : test_e2e :iphone X
+2020-07-01 20:51:25,047 :INFO : test_e2e :Samsung Note 8
+2020-07-01 20:51:25,063 :INFO : test_e2e :Nokia Edge
+2020-07-01 20:51:25,080 :INFO : test_e2e :Blackberry
+2020-07-01 20:56:36,911 :INFO : test_e2e :getting all the card titles
+2020-07-01 20:56:36,939 :INFO : test_e2e :iphone X
+2020-07-01 20:56:37,012 :INFO : test_e2e :Samsung Note 8
+2020-07-01 20:56:37,030 :INFO : test_e2e :Nokia Edge
+2020-07-01 20:56:37,047 :INFO : test_e2e :Blackberry
+2020-07-01 20:59:31,709 :INFO : test_e2e :getting all the card titles
+2020-07-01 20:59:31,740 :INFO : test_e2e :iphone X
+2020-07-01 20:59:31,831 :INFO : test_e2e :Samsung Note 8
+2020-07-01 20:59:31,849 :INFO : test_e2e :Nokia Edge
+2020-07-01 20:59:31,874 :INFO : test_e2e :Blackberry
+2020-07-01 21:03:13,898 :INFO : test_e2e :getting all the card titles
+2020-07-01 21:03:13,923 :INFO : test_e2e :iphone X
+2020-07-01 21:03:13,994 :INFO : test_e2e :Samsung Note 8
+2020-07-01 21:03:14,008 :INFO : test_e2e :Nokia Edge
+2020-07-01 21:03:14,022 :INFO : test_e2e :Blackberry
+2020-07-01 21:08:17,265 :INFO : test_e2e :getting all the card titles
+2020-07-01 21:08:17,301 :INFO : test_e2e :iphone X
+2020-07-01 21:08:22,397 :INFO : test_e2e :Samsung Note 8
+2020-07-01 21:08:22,413 :INFO : test_e2e :Nokia Edge
+2020-07-01 21:08:22,434 :INFO : test_e2e :Blackberry
+2020-07-01 21:14:52,024 :INFO : test_e2e :getting all the card titles
+2020-07-01 21:14:52,080 :INFO : test_e2e :iphone X
+2020-07-01 21:14:57,385 :INFO : test_e2e :Samsung Note 8
+2020-07-01 21:14:57,404 :INFO : test_e2e :Nokia Edge
+2020-07-01 21:14:57,428 :INFO : test_e2e :Blackberry
+2020-07-01 21:25:17,287 :INFO : test_e2e :getting all the card titles
+2020-07-01 21:25:17,345 :INFO : test_e2e :iphone X
+2020-07-01 21:25:17,463 :INFO : test_e2e :Samsung Note 8
+2020-07-01 21:25:17,494 :INFO : test_e2e :Nokia Edge
+2020-07-01 21:25:17,522 :INFO : test_e2e :Blackberry
+2020-07-02 14:35:23,530 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:35:23,549 :INFO : test_e2e :iphone X
+2020-07-02 14:35:23,608 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:35:23,618 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:35:23,628 :INFO : test_e2e :Blackberry
+2020-07-02 14:36:33,012 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:36:33,036 :INFO : test_e2e :iphone X
+2020-07-02 14:36:33,088 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:36:33,098 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:36:33,109 :INFO : test_e2e :Blackberry
+2020-07-02 14:38:30,702 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:39:05,995 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:39:06,015 :INFO : test_e2e :iphone X
+2020-07-02 14:39:06,076 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:39:06,086 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:39:06,096 :INFO : test_e2e :Blackberry
+2020-07-02 14:43:49,189 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:43:49,209 :INFO : test_e2e :iphone X
+2020-07-02 14:43:49,275 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:43:49,285 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:43:49,296 :INFO : test_e2e :Blackberry
+2020-07-02 14:51:05,746 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:51:05,770 :INFO : test_e2e :iphone X
+2020-07-02 14:51:05,828 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:51:05,838 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:51:05,848 :INFO : test_e2e :Blackberry
+2020-07-02 14:54:58,507 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:54:58,527 :INFO : test_e2e :iphone X
+2020-07-02 14:54:58,593 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:54:58,603 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:54:58,614 :INFO : test_e2e :Blackberry
+2020-07-02 14:58:32,104 :INFO : test_e2e :getting all the card titles
+2020-07-02 14:58:32,124 :INFO : test_e2e :iphone X
+2020-07-02 14:58:32,185 :INFO : test_e2e :Samsung Note 8
+2020-07-02 14:58:32,195 :INFO : test_e2e :Nokia Edge
+2020-07-02 14:58:32,205 :INFO : test_e2e :Blackberry
+2020-07-02 15:03:00,830 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:03:00,853 :INFO : test_e2e :iphone X
+2020-07-02 15:03:00,906 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:03:00,916 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:03:00,927 :INFO : test_e2e :Blackberry
+2020-07-02 15:06:17,263 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:06:17,287 :INFO : test_e2e :iphone X
+2020-07-02 15:06:17,346 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:06:17,356 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:06:17,365 :INFO : test_e2e :Blackberry
+2020-07-02 15:18:08,440 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:18:08,461 :INFO : test_e2e :iphone X
+2020-07-02 15:18:08,533 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:18:08,544 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:18:08,554 :INFO : test_e2e :Blackberry
+2020-07-02 15:26:20,155 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:26:20,178 :INFO : test_e2e :iphone X
+2020-07-02 15:26:20,231 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:26:20,241 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:26:20,253 :INFO : test_e2e :Blackberry
+2020-07-02 15:29:19,244 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:29:19,265 :INFO : test_e2e :iphone X
+2020-07-02 15:29:19,329 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:29:19,339 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:29:19,349 :INFO : test_e2e :Blackberry
+2020-07-02 15:31:34,269 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:31:34,290 :INFO : test_e2e :iphone X
+2020-07-02 15:31:34,360 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:31:34,371 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:31:34,381 :INFO : test_e2e :Blackberry
+2020-07-02 15:36:10,120 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:36:59,628 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:38:39,683 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:38:39,702 :INFO : test_e2e :iphone X
+2020-07-02 15:38:39,764 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:38:39,775 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:38:39,785 :INFO : test_e2e :Blackberry
+2020-07-02 15:42:03,968 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:43:39,013 :INFO : test_e2e :getting all the card titles
+2020-07-02 15:43:39,034 :INFO : test_e2e :iphone X
+2020-07-02 15:43:39,096 :INFO : test_e2e :Samsung Note 8
+2020-07-02 15:43:39,107 :INFO : test_e2e :Nokia Edge
+2020-07-02 15:43:39,118 :INFO : test_e2e :Blackberry
