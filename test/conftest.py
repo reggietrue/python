@@ -24,6 +24,7 @@ def pytest_addoption(parser):
 def dataLoad():
     print("user profile data is being created")
     print("add")
+    print("This is another change")
     return ["Reggie","Tom","Brad"]
 
 
