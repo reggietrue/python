@@ -23,6 +23,7 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def dataLoad():
     print("user profile data is being created")
+    print("add")
     return ["Reggie","Tom","Brad"]
 
 
