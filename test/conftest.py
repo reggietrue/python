@@ -4,7 +4,7 @@ from selenium.webdriver import DesiredCapabilities
 
 driver = None
 #this is development branch
-
+#this is personR delvelop branch
 caps = DesiredCapabilities().CHROME
 caps["pageLoadStrategy"] = "normal"  #  complete
 #caps["pageLoadStrategy"] = "eager"  #  interactive
