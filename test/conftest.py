@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver import DesiredCapabilities
 
 driver = None
-
+#this is development branch
 
 caps = DesiredCapabilities().CHROME
 caps["pageLoadStrategy"] = "normal"  #  complete
@@ -23,6 +23,7 @@ def pytest_addoption(parser):
 @pytest.fixture()
 def dataLoad():
     print("user profile data is being created")
+    print("add")
     print("add")
     print("This is another change")
     return ["Reggie","Tom","Brad"]
